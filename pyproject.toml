@@ -1,0 +1,6 @@
+[project]
+name = "planeon-runtime-plane"
+version = "0.0.0"
+description = "Runtime plane health-only shell (standard library only)."
+requires-python = "==3.12.14"
+dependencies = []
